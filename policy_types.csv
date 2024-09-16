@@ -1,0 +1,5 @@
+PolicyTypeID,PolicyTypeName,Description
+1,Health,Health insurance policy
+2,Life,Life insurance policy
+3,Travel,Travel insurance policy
+4,Pet,Pet insurance policy
